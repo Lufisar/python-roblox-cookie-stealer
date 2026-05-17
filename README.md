@@ -1,2 +1,1 @@
-# python-roblox-cookie-stealer
-Roblox cookie stealer with Telegram connection
+<b>You will need libraries:</b>
